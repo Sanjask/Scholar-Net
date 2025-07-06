@@ -22,6 +22,3 @@ This project explores the **temporal evolution**, **interdisciplinary nature**, 
 * `NS_FinalCodeReport_12.pdf`: Detailed technical explanation of the methodology and findings.
 * `NS_REPORT_12.pdf`: Structured academic-style report covering all deliverables.
 
----
-
-Let me know if you’d like a badge, image preview, or interactive features added to this `README`.
